@@ -1,5 +1,5 @@
 Test suite requires a configuration file src/test/java/com/harvester_automation/config/Application.properties
-
+### First step to setup maven and run "mvn install" command in the root folder of the project
 ### This project framework consists of both UI and api part integrated together
 ### This Project uses the maven with cucumber, junit library
 ### To interact with API we are using REST ASSURED library
