@@ -1,0 +1,25 @@
+{
+	"videoId": "TEST_V2",
+	"title": [
+		{
+			"locale": "en-US",
+			"value": "QA test itt"
+		},
+		{
+			"locale": "sv",
+			"value": "S12"
+		},
+		{
+			"locale": "da",
+			"value": "D12"
+		},
+		{
+			"locale": "fi",
+			"value": "F12"
+		},
+		{
+			"locale": "no",
+			"value": "N12"
+		}
+	]
+}
